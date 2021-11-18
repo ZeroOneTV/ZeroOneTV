@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Gabriel Rodrigues
 #### I am A.I && Mobile developer 
-![I am A.I && Mobile developer ]
 
 I like to always delve into new studies on Artificial Intelligence and Mobile.
 Occasionally I'm creating new repositories to contribute knowledge gained during my studies. 
