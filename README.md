@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Gabriel Rodrigues
-#### I am A.I && Mobile developer 
+#### I am A.I 
 
 I like to always delve into new studies on Artificial Intelligence and Mobile.
 Occasionally I'm creating new repositories to contribute knowledge gained during my studies. 
@@ -12,7 +12,7 @@ Here the [link](https://medium.com/@gabrielferreirarodriguesti) to my profile on
 They are written in my native language, but I will translate to other languages later.
 
 
-Skills: FLUTTER / PYTHON / DART / JAVA / JS
+Skills:  PYTHON / FLUTTER / DART / JAVA / JS
 
 - 🔭 I’m currently working on Machine Learning.
 - 📫 contact: gabrielferreirarodrigues@hotmail.com
